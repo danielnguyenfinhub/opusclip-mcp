@@ -1,0 +1,2 @@
+# opusclip-mcp
+opusclip-mcp
